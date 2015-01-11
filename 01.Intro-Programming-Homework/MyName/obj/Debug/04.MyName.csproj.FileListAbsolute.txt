@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\MyName\bin\Debug\MyName.exe.config
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\MyName\bin\Debug\MyName.exe
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\MyName\bin\Debug\MyName.pdb
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\MyName\obj\Debug\MyName.exe
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\MyName\obj\Debug\MyName.pdb

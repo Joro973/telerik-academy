@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

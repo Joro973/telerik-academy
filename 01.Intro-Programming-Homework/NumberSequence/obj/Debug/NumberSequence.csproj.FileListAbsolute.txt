@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe.config
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.exe
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\bin\Debug\NumberSequence.pdb
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.exe
+C:\Users\user\Desktop\HomeWork\Intro-Programming-Homework\NumberSequence\obj\Debug\NumberSequence.pdb
