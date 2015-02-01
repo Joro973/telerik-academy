@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\bin\Debug\02.PeshoGarden.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\bin\Debug\02.PeshoGarden.exe
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\bin\Debug\02.PeshoGarden.pdb
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\obj\Debug\02.PeshoGarden(1).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\obj\Debug\02.PeshoGarden.exe
+C:\Users\user\Desktop\HomeWork\Exam\02.PeshoGarden\obj\Debug\02.PeshoGarden.pdb

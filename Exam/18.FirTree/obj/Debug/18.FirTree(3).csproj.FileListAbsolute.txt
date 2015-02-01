@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Exam\18.FirTree\bin\Debug\18.FirTree.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\18.FirTree\bin\Debug\18.FirTree.exe
+C:\Users\user\Desktop\HomeWork\Exam\18.FirTree\bin\Debug\18.FirTree.pdb
+C:\Users\user\Desktop\HomeWork\Exam\18.FirTree\obj\Debug\18.FirTree.exe
+C:\Users\user\Desktop\HomeWork\Exam\18.FirTree\obj\Debug\18.FirTree.pdb

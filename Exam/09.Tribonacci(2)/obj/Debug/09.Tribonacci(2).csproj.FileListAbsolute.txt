@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\bin\Debug\09.Tribonacci(2).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\bin\Debug\09.Tribonacci(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\bin\Debug\09.Tribonacci(2).pdb
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\obj\Debug\09.Tribonacci(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\obj\Debug\09.Tribonacci(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\09.Tribonacci(2)\obj\Debug\09.Tribonacci(2).pdb

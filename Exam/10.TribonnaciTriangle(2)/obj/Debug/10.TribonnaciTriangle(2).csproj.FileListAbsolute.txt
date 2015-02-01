@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\bin\Debug\10.TribonnaciTriangle(2).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\bin\Debug\10.TribonnaciTriangle(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\bin\Debug\10.TribonnaciTriangle(2).pdb
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\obj\Debug\10.TribonnaciTriangle(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\obj\Debug\10.TribonnaciTriangle(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\10.TribonnaciTriangle(2)\obj\Debug\10.TribonnaciTriangle(2).pdb

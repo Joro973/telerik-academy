@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\bin\Debug\15.AstrologicalDigits(2).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\bin\Debug\15.AstrologicalDigits(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\bin\Debug\15.AstrologicalDigits(2).pdb
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\obj\Debug\15.AstrologicalDigits(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\obj\Debug\15.AstrologicalDigits(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\15.AstrologicalDigits(2)\obj\Debug\15.AstrologicalDigits(2).pdb

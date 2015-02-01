@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\bin\Debug\08.CoffeeVendingMachine.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\bin\Debug\08.CoffeeVendingMachine.exe
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\bin\Debug\08.CoffeeVendingMachine.pdb
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\obj\Debug\08.CoffeeVendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\obj\Debug\08.CoffeeVendingMachine.exe
+C:\Users\user\Desktop\HomeWork\Exam\08.CoffeeVendingMachine\obj\Debug\08.CoffeeVendingMachine.pdb

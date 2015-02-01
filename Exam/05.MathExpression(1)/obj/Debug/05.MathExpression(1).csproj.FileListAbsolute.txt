@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\bin\Debug\05.MathExpression(1).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\bin\Debug\05.MathExpression(1).exe
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\bin\Debug\05.MathExpression(1).pdb
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\obj\Debug\05.MathExpression(1).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\obj\Debug\05.MathExpression(1).exe
+C:\Users\user\Desktop\HomeWork\Exam\05.MathExpression(1)\obj\Debug\05.MathExpression(1).pdb

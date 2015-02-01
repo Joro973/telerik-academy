@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\bin\Debug\01.CreamPie.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\bin\Debug\01.CreamPie.exe
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\bin\Debug\01.CreamPie.pdb
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\obj\Debug\01.CreamPie.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\obj\Debug\01.CreamPie.exe
+C:\Users\user\Desktop\HomeWork\Exam\01.CreamPie\obj\Debug\01.CreamPie.pdb

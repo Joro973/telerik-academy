@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\bin\Debug\04.CoordinateSystem.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\bin\Debug\04.CoordinateSystem.exe
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\bin\Debug\04.CoordinateSystem.pdb
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\obj\Debug\04.CoordinateSystem(1).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\obj\Debug\04.CoordinateSystem.exe
+C:\Users\user\Desktop\HomeWork\Exam\04.CoordinateSystem\obj\Debug\04.CoordinateSystem.pdb

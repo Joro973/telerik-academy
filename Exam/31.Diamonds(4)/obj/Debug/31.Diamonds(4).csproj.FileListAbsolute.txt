@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\bin\Debug\31.Diamonds(4).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\bin\Debug\31.Diamonds(4).exe
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\bin\Debug\31.Diamonds(4).pdb
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\obj\Debug\31.Diamonds(4).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\obj\Debug\31.Diamonds(4).exe
+C:\Users\user\Desktop\HomeWork\Exam\31.Diamonds(4)\obj\Debug\31.Diamonds(4).pdb

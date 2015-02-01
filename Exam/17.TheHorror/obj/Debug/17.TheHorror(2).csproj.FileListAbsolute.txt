@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\bin\Debug\17.TheHorror.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\obj\Debug\17.TheHorror.exe
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\obj\Debug\17.TheHorror.pdb
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\bin\Debug\17.TheHorror.exe
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\bin\Debug\17.TheHorror.pdb
+C:\Users\user\Desktop\HomeWork\Exam\17.TheHorror\obj\Debug\17.TheHorror(2).csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\bin\Debug\12.A-nacci.exe.config
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\bin\Debug\12.A-nacci.exe
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\bin\Debug\12.A-nacci.pdb
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\obj\Debug\12.A-nacci.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\obj\Debug\12.A-nacci.exe
+C:\Users\user\Desktop\HomeWork\Exam\12.A-nacci\obj\Debug\12.A-nacci.pdb

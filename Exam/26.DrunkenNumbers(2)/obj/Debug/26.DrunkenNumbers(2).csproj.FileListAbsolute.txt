@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\bin\Debug\26.DrunkenNumbers(2).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\bin\Debug\26.DrunkenNumbers(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\bin\Debug\26.DrunkenNumbers(2).pdb
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\obj\Debug\26.DrunkenNumbers(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\obj\Debug\26.DrunkenNumbers(2).exe
+C:\Users\user\Desktop\HomeWork\Exam\26.DrunkenNumbers(2)\obj\Debug\26.DrunkenNumbers(2).pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\bin\Debug\24.ForestRoad(3).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\bin\Debug\24.ForestRoad(3).exe
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\bin\Debug\24.ForestRoad(3).pdb
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\obj\Debug\24.ForestRoad(3).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\obj\Debug\24.ForestRoad(3).exe
+C:\Users\user\Desktop\HomeWork\Exam\24.ForestRoad(3)\obj\Debug\24.ForestRoad(3).pdb

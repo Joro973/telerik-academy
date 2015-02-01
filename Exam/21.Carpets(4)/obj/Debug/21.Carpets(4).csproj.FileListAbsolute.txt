@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\bin\Debug\21.Carpets(4).exe.config
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\bin\Debug\21.Carpets(4).exe
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\bin\Debug\21.Carpets(4).pdb
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\obj\Debug\21.Carpets(4).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\obj\Debug\21.Carpets(4).exe
+C:\Users\user\Desktop\HomeWork\Exam\21.Carpets(4)\obj\Debug\21.Carpets(4).pdb
