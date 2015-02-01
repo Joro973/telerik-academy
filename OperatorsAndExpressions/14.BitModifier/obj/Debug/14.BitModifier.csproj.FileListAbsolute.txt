@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\bin\Debug\14.BitModifier.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\bin\Debug\14.BitModifier.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\bin\Debug\14.BitModifier.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\obj\Debug\14.BitModifier.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\obj\Debug\14.BitModifier.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\14.BitModifier\obj\Debug\14.BitModifier.csprojResolveAssemblyReference.cache

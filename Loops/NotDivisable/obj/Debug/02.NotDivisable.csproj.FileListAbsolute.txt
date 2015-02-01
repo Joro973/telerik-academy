@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\bin\Debug\NotDivisable.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\bin\Debug\NotDivisable.exe
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\bin\Debug\NotDivisable.pdb
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\obj\Debug\02.NotDivisable.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\obj\Debug\NotDivisable.exe
+C:\Users\user\Desktop\HomeWork\Loops\NotDivisable\obj\Debug\NotDivisable.pdb

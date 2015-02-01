@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.exe
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\bin\Debug\07.NumberOfCombinations.pdb
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.exe
+C:\Users\user\Desktop\HomeWork\Loops\07.NumberOfCombinations\obj\Debug\07.NumberOfCombinations.pdb

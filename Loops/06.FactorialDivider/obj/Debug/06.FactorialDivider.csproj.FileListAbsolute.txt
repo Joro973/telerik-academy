@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\bin\Debug\06.FactorialDivider.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\bin\Debug\06.FactorialDivider.exe
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\bin\Debug\06.FactorialDivider.pdb
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\obj\Debug\06.FactorialDivider.exe
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\obj\Debug\06.FactorialDivider.pdb
+C:\Users\user\Desktop\HomeWork\Loops\06.FactorialDivider\obj\Debug\06.FactorialDivider.csprojResolveAssemblyReference.cache

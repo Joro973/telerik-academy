@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\bin\Debug\04.CardDeck.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\bin\Debug\04.CardDeck.exe
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\bin\Debug\04.CardDeck.pdb
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\obj\Debug\04.CardDeck.exe
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\obj\Debug\04.CardDeck.pdb
+C:\Users\user\Desktop\HomeWork\Loops\04.CardDeck\obj\Debug\04.CardDeck.csprojResolveAssemblyReference.cache

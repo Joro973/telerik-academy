@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\12.ExtractBitFromInt\bin\Debug\12.ExtractBitFromInt.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\12.ExtractBitFromInt\obj\Debug\12.ExtractBitFromInt.pdb

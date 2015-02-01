@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

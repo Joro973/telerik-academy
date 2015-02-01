@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+C:\Users\user\Desktop\HomeWork\Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb

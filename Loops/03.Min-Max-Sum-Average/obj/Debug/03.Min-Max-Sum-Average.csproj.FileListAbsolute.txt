@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\bin\Debug\03.Min-Max-Sum-Average.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\bin\Debug\03.Min-Max-Sum-Average.exe
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\bin\Debug\03.Min-Max-Sum-Average.pdb
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\obj\Debug\03.Min-Max-Sum-Average.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\obj\Debug\03.Min-Max-Sum-Average.exe
+C:\Users\user\Desktop\HomeWork\Loops\03.Min-Max-Sum-Average\obj\Debug\03.Min-Max-Sum-Average.pdb

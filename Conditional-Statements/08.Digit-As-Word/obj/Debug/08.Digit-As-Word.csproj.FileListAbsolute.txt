@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\08.Digit-As-Word\bin\Debug\08.Digit-As-Word.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\08.Digit-As-Word\obj\Debug\08.Digit-As-Word.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\08.Digit-As-Word\obj\Debug\08.Digit-As-Word.pdb

@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\Loops\05\bin\Debug\05.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\05\obj\Debug\05.exe
+C:\Users\user\Desktop\HomeWork\Loops\05\obj\Debug\05.pdb

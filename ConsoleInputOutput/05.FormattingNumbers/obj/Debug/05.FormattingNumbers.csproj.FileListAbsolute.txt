@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

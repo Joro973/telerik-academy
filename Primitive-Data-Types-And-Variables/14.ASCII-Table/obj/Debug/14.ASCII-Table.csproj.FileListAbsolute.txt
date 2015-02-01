@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\bin\Debug\14.ASCII-Table.exe.config
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\bin\Debug\14.ASCII-Table.exe
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\bin\Debug\14.ASCII-Table.pdb
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\obj\Debug\14.ASCII-Table.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\obj\Debug\14.ASCII-Table.exe
+C:\Users\user\Desktop\HomeWork\Primitive-Data-Types-And-Variables\14.ASCII-Table\obj\Debug\14.ASCII-Table.pdb

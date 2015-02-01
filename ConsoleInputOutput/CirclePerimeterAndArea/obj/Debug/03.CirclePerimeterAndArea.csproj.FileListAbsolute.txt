@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

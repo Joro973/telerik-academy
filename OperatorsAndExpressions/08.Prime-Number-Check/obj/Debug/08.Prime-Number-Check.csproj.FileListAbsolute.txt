@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\08.Prime-Number-Check\bin\Debug\08.Prime-Number-Check.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\08.Prime-Number-Check\bin\Debug\08.Prime-Number-Check.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\08.Prime-Number-Check\bin\Debug\08.Prime-Number-Check.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\08.Prime-Number-Check\obj\Debug\08.Prime-Number-Check.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\08.Prime-Number-Check\obj\Debug\08.Prime-Number-Check.pdb

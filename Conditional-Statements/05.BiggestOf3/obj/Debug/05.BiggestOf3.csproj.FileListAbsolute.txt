@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\05.BiggestOf3\bin\Debug\05.BiggestOf3.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\05.BiggestOf3\bin\Debug\05.BiggestOf3.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\05.BiggestOf3\bin\Debug\05.BiggestOf3.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\05.BiggestOf3\obj\Debug\05.BiggestOf3.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\05.BiggestOf3\obj\Debug\05.BiggestOf3.pdb

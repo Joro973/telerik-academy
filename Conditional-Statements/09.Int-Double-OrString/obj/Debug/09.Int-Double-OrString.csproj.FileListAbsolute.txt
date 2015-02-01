@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\09.Int-Double-OrString\bin\Debug\09.Int-Double-OrString.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\09.Int-Double-OrString\bin\Debug\09.Int-Double-OrString.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\09.Int-Double-OrString\bin\Debug\09.Int-Double-OrString.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\09.Int-Double-OrString\obj\Debug\09.Int-Double-OrString.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\09.Int-Double-OrString\obj\Debug\09.Int-Double-OrString.pdb

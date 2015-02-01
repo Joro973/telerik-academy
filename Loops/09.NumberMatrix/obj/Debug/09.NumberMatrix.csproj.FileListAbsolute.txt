@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\bin\Debug\09.NumberMatrix.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\bin\Debug\09.NumberMatrix.exe
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\bin\Debug\09.NumberMatrix.pdb
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\obj\Debug\09.NumberMatrix.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\obj\Debug\09.NumberMatrix.exe
+C:\Users\user\Desktop\HomeWork\Loops\09.NumberMatrix\obj\Debug\09.NumberMatrix.pdb
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\09.NumberMatrix\bin\Debug\09.NumberMatrix.exe.config
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\09.NumberMatrix\obj\Debug\09.NumberMatrix.exe
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\09.NumberMatrix\obj\Debug\09.NumberMatrix.pdb

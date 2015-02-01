@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\HomeWork\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe
+C:\Users\user\Desktop\HomeWork\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.pdb
+C:\Users\user\Desktop\HomeWork\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.exe
+C:\Users\user\Desktop\HomeWork\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.pdb
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\15.HexadecimalToDecimal\bin\Debug\15.HexadecimalToDecimal.exe.config
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.exe
+C:\Users\user\Desktop\HomeWork\Done Homeworks\Loops\15.HexadecimalToDecimal\obj\Debug\15.HexadecimalToDecimal.pdb

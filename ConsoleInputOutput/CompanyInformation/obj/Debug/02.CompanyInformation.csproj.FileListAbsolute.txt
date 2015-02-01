@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CompanyInformation\bin\Debug\CompanyInformation.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CompanyInformation\obj\Debug\CompanyInformation.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\CompanyInformation\obj\Debug\CompanyInformation.pdb

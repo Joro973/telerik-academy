@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.exe.config
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.exe
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\bin\Debug\11.RandomNumbersInRange.pdb
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\obj\Debug\11.RandomNumbersInRange.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\obj\Debug\11.RandomNumbersInRange.exe
+C:\Users\user\Desktop\HomeWork\Loops\11.RandomNumbersInRange\obj\Debug\11.RandomNumbersInRange.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\bin\Debug\08.Numbers-to-N.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\bin\Debug\08.Numbers-to-N.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\bin\Debug\08.Numbers-to-N.pdb
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\obj\Debug\08.Numbers-to-N.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\obj\Debug\08.Numbers-to-N.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\08.Numbers-to-N\obj\Debug\08.Numbers-to-N.pdb

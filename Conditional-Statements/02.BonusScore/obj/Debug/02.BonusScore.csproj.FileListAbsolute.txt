@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\02.BonusScore\obj\Debug\02.BonusScore.pdb

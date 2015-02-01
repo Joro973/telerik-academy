@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\bin\Debug\03.PlayCardCheck.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\bin\Debug\03.PlayCardCheck.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\bin\Debug\03.PlayCardCheck.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\obj\Debug\03.PlayCardCheck.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\obj\Debug\03.PlayCardCheck.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\03.PlayCardCheck\obj\Debug\03.PlayCardCheck.pdb

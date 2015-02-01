@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\bin\Debug\06.BiggestOf5.exe.config
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\bin\Debug\06.BiggestOf5.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\bin\Debug\06.BiggestOf5.pdb
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\obj\Debug\06.BiggestOf5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\obj\Debug\06.BiggestOf5.exe
+C:\Users\user\Desktop\HomeWork\Conditional-Statements\06.BiggestOf5\obj\Debug\06.BiggestOf5.pdb

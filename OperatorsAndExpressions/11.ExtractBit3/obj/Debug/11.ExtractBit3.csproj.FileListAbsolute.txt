@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\obj\Debug\11.ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb

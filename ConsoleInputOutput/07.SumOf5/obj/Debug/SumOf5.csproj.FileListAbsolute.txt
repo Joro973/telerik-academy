@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\bin\Debug\07.SumOf5.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\bin\Debug\07.SumOf5.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\bin\Debug\07.SumOf5.pdb
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\obj\Debug\SumOf5.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\obj\Debug\07.SumOf5.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\07.SumOf5\obj\Debug\07.SumOf5.pdb

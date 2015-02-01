@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\09.SumOfN\bin\Debug\09.SumOfN.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\09.SumOfN\bin\Debug\09.SumOfN.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\09.SumOfN\bin\Debug\09.SumOfN.pdb
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\09.SumOfN\obj\Debug\09.SumOfN.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\09.SumOfN\obj\Debug\09.SumOfN.pdb

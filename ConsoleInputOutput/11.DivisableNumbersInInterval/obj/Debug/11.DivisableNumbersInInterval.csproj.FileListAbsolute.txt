@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\11.DivisableNumbersInInterval\bin\Debug\11.DivisableNumbersInInterval.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\11.DivisableNumbersInInterval\bin\Debug\11.DivisableNumbersInInterval.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\11.DivisableNumbersInInterval\bin\Debug\11.DivisableNumbersInInterval.pdb
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\11.DivisableNumbersInInterval\obj\Debug\11.DivisableNumbersInInterval.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\11.DivisableNumbersInInterval\obj\Debug\11.DivisableNumbersInInterval.pdb

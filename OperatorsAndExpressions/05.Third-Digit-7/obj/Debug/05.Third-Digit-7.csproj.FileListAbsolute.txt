@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\05.Third-Digit-7\bin\Debug\05.Third-Digit-7.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\05.Third-Digit-7\bin\Debug\05.Third-Digit-7.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\05.Third-Digit-7\bin\Debug\05.Third-Digit-7.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\05.Third-Digit-7\obj\Debug\05.Third-Digit-7.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\05.Third-Digit-7\obj\Debug\05.Third-Digit-7.pdb

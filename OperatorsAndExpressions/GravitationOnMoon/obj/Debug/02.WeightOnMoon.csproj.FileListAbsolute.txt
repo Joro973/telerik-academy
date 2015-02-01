@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\GravitationOnMoon\bin\Debug\GravitationOnMoon.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\GravitationOnMoon\bin\Debug\GravitationOnMoon.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\GravitationOnMoon\bin\Debug\GravitationOnMoon.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\GravitationOnMoon\obj\Debug\GravitationOnMoon.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\GravitationOnMoon\obj\Debug\GravitationOnMoon.pdb

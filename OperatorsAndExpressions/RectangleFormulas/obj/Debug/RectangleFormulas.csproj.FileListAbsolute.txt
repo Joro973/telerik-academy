@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\RectangleFormulas\bin\Debug\RectangleFormulas.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\RectangleFormulas\bin\Debug\RectangleFormulas.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\RectangleFormulas\bin\Debug\RectangleFormulas.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\RectangleFormulas\obj\Debug\RectangleFormulas.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\RectangleFormulas\obj\Debug\RectangleFormulas.pdb

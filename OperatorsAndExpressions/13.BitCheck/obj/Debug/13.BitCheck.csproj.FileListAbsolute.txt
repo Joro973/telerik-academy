@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\13.BitCheck\bin\Debug\13.BitCheck.exe.config
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\13.BitCheck\bin\Debug\13.BitCheck.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\13.BitCheck\bin\Debug\13.BitCheck.pdb
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\13.BitCheck\obj\Debug\13.BitCheck.exe
+C:\Users\user\Desktop\HomeWork\OperatorsAndExpressions\13.BitCheck\obj\Debug\13.BitCheck.pdb

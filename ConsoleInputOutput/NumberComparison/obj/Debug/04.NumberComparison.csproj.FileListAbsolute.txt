@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\NumberComparison\bin\Debug\NumberComparison.exe.config
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\NumberComparison\obj\Debug\NumberComparison.exe
+C:\Users\user\Desktop\HomeWork\ConsoleInputOutput\NumberComparison\obj\Debug\NumberComparison.pdb
