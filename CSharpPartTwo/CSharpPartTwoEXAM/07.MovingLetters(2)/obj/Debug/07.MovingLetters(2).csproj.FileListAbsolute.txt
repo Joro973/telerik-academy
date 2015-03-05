@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\bin\Debug\07.MovingLetters(2).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\bin\Debug\07.MovingLetters(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\bin\Debug\07.MovingLetters(2).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\obj\Debug\07.MovingLetters(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\obj\Debug\07.MovingLetters(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\07.MovingLetters(2)\obj\Debug\07.MovingLetters(2).pdb

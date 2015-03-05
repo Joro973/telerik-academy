@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\bin\Debug\14.Calculator(2).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\bin\Debug\14.Calculator(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\bin\Debug\14.Calculator(2).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\obj\Debug\14.Calculator(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\obj\Debug\14.Calculator(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\14.Calculator(2)\obj\Debug\14.Calculator(2).pdb

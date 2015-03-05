@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\bin\Debug\02.MagicWords(2).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\bin\Debug\02.MagicWords(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\bin\Debug\02.MagicWords(2).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\obj\Debug\02.MagicWords(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\obj\Debug\02.MagicWords(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\02.MagicWords(2)\obj\Debug\02.MagicWords(2).pdb

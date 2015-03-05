@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\bin\Debug\16.TwoGirlsOnePath(2).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\bin\Debug\16.TwoGirlsOnePath(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\bin\Debug\16.TwoGirlsOnePath(2).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\obj\Debug\16.TwoGirlsOnePath(2).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\obj\Debug\16.TwoGirlsOnePath(2).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\16.TwoGirlsOnePath(2)\obj\Debug\16.TwoGirlsOnePath(2).pdb

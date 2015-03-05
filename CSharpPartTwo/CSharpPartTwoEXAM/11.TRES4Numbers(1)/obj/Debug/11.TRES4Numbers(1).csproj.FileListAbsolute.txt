@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\bin\Debug\11.TRES4Numbers(1).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\bin\Debug\11.TRES4Numbers(1).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\bin\Debug\11.TRES4Numbers(1).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\obj\Debug\11.TRES4Numbers(1).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\obj\Debug\11.TRES4Numbers(1).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\11.TRES4Numbers(1)\obj\Debug\11.TRES4Numbers(1).pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\bin\Debug\20.Patterns(3).exe.config
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\bin\Debug\20.Patterns(3).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\bin\Debug\20.Patterns(3).pdb
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\obj\Debug\20.Patterns(3).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\obj\Debug\20.Patterns(3).exe
+C:\Users\user\Desktop\HomeWork\CSharpPartTwoEXAM\20.Patterns(3)\obj\Debug\20.Patterns(3).pdb
