@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\user\Desktop\HomeWork\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

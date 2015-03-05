@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+C:\Users\user\Desktop\HomeWork\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

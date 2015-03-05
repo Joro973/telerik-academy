@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe.config
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\11.FormatNumber\bin\Debug\11.FormatNumber.pdb
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\11.FormatNumber\obj\Debug\11.FormatNumber.pdb

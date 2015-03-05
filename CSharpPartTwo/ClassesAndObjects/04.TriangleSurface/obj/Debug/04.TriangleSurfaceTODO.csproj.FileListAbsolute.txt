@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

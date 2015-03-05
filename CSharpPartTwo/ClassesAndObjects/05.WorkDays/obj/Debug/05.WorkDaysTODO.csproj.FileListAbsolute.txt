@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\bin\Debug\05.WorkDays.exe.config
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\bin\Debug\05.WorkDays.exe
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\bin\Debug\05.WorkDays.pdb
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\obj\Debug\05.WorkDaysTODO.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\obj\Debug\05.WorkDays.exe
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\05.WorkDays\obj\Debug\05.WorkDays.pdb

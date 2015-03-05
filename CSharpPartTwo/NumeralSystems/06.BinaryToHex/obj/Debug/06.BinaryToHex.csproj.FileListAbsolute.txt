@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe.config
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.pdb
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.exe
+C:\Users\user\Desktop\HomeWork\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.pdb

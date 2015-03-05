@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+C:\Users\user\Desktop\HomeWork\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+C:\Users\user\Desktop\HomeWork\Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+C:\Users\user\Desktop\HomeWork\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+C:\Users\user\Desktop\HomeWork\Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb

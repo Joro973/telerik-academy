@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\NumeralSystems\08.BinShort\bin\Debug\08.BinShort.exe.config
+C:\Users\user\Desktop\HomeWork\NumeralSystems\08.BinShort\bin\Debug\08.BinShort.exe
+C:\Users\user\Desktop\HomeWork\NumeralSystems\08.BinShort\bin\Debug\08.BinShort.pdb
+C:\Users\user\Desktop\HomeWork\NumeralSystems\08.BinShort\obj\Debug\08.BinShort.exe
+C:\Users\user\Desktop\HomeWork\NumeralSystems\08.BinShort\obj\Debug\08.BinShort.pdb

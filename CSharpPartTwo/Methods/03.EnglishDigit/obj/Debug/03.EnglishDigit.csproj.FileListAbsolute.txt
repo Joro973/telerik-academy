@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe.config
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.exe
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\bin\Debug\03.EnglishDigit.pdb
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.exe
+C:\Users\user\Desktop\HomeWork\Methods\03.EnglishDigit\obj\Debug\03.EnglishDigit.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

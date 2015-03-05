@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\bin\Debug\07.ArraySorting.exe.config
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\bin\Debug\07.ArraySorting.exe
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\bin\Debug\07.ArraySorting.pdb
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\obj\Debug\07.ArraySorting.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\obj\Debug\07.ArraySorting.exe
+C:\Users\user\Desktop\HomeWork\Arrays\07.ArraySorting\obj\Debug\07.ArraySorting.pdb

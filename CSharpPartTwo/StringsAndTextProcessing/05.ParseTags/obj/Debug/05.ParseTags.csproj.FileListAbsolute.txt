@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe.config
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.pdb
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.exe
+C:\Users\user\Desktop\HomeWork\StringsAndTextProcessing\05.ParseTags\obj\Debug\05.ParseTags.pdb

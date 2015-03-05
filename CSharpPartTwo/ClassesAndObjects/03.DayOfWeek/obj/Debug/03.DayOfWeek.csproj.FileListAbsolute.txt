@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+C:\Users\user\Desktop\HomeWork\ClassesAndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

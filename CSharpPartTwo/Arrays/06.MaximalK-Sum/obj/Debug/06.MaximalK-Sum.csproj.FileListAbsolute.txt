@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\bin\Debug\06.MaximalK-Sum.exe.config
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\bin\Debug\06.MaximalK-Sum.exe
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\bin\Debug\06.MaximalK-Sum.pdb
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\obj\Debug\06.MaximalK-Sum.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\obj\Debug\06.MaximalK-Sum.exe
+C:\Users\user\Desktop\HomeWork\Arrays\06.MaximalK-Sum\obj\Debug\06.MaximalK-Sum.pdb
